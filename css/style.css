@@ -1,0 +1,74 @@
+.banner {
+    background: url(../img/fon.png) no-repeat center #EEE4DB;
+    background-size: contain;
+    padding: 145px;
+    padding-bottom: 136px;
+    margin-bottom: 90px
+   
+}
+
+.banner-title {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 110%;
+    color: #1E0606;
+    min-width: 40%;
+    align-items: center;
+    width: 307px;
+}
+
+.banner-button {
+    max-width: 161px;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: 20px;      
+}
+
+.banner-footer {
+    background: #C29974;
+    width: 1180px;
+    height: 39px;
+    left: 479px;
+    top: 507px;
+    position: absolute;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.text-designed {
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 25px;
+    color: #1E0606; 
+    margin-top: 20px;
+}
+
+
+
+/* CATEGORY */
+
+.category-title {
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+    text-transform: uppercase;
+    color: #1E0606;
+    text-align: center;
+    margin: 0 0 30px;
+}
+
+.category-list {
+    display: flex;
+}
+
+.services-item {
+    max-width: 280px;
+    width: 1180px;
+    height: 421px;
+    left: 110px;
+    top: 732px;
+    margin-right: 20px;
+    text-align: center;
+}
